@@ -18,6 +18,7 @@ return {
             },
           },
         },
+        enabled = false, -- 👈 DISABLE PYRIGHT LSP SERVER (WE ONLY WANT THE HINTS)
       },
     },
   },
